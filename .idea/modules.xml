@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RogerDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/RogerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RogerDemo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RogerDemo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rogernativelib/RogerDemo.rogernativelib.iml" filepath="$PROJECT_DIR$/.idea/modules/rogernativelib/RogerDemo.rogernativelib.iml" />
+    </modules>
+  </component>
+</project>
