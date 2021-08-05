@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/RogerDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/RogerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aidlService/RogerDemo.aidlService.iml" filepath="$PROJECT_DIR$/.idea/modules/aidlService/RogerDemo.aidlService.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RogerDemo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RogerDemo.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/rogernativelib/RogerDemo.rogernativelib.iml" filepath="$PROJECT_DIR$/.idea/modules/rogernativelib/RogerDemo.rogernativelib.iml" />
     </modules>

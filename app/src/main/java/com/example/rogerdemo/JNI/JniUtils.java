@@ -1,4 +1,4 @@
-package com.example.rogerdemo;
+package com.example.rogerdemo.JNI;
 
 public class JniUtils {
 

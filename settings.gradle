@@ -9,3 +9,4 @@ dependencyResolutionManagement {
 rootProject.name = "RogerDemo"
 include ':app'
 include ':rogernativelib'
+include ':aidlService'
