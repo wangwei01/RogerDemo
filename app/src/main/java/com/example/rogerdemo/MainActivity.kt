@@ -20,6 +20,7 @@ class MainActivity : AppCompatActivity() {
         bindRogerService()
         setContentView(R.layout.activity_main)
         findViewById<TextView>(R.id.tv_test).text = JniUtils.getStringFromNDK().toString()
+        findViewById<TextView>(R.id.tv_test).text = JniUtils.getDate().toString()
         findViewById<TextView>(R.id.tv_test).text = NativeLib().stringFromJNI()
         findViewById<TextView>(R.id.tv_test).text = aidl.add(1, 2).toString()
     }

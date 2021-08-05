@@ -6,4 +6,5 @@ public class JniUtils {
         System.loadLibrary("jniutils-jni");
     }
     public static native String getStringFromNDK();
+    public static native String getDate();
 }
